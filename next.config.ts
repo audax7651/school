@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  trailingSlash: true,
+  assetPrefix: '/school/',
 };
 
 export default nextConfig;
