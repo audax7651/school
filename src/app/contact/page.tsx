@@ -38,7 +38,7 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl md:text-5xl font-bold text-center">Contact Us</h1>
           <p className="mt-4 text-xl text-center max-w-3xl mx-auto">
-            We'd love to hear from you. Please fill out the form below or use our contact information.
+            We&apos;d love to hear from you. Please fill out the form below or use our contact information.
           </p>
         </div>
       </section>
